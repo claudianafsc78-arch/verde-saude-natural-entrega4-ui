@@ -10,7 +10,7 @@ Este repositório contém o Front-End (UI) do projeto.
 
 | Código | Tarefa | Situação |
 |---|---|---|
-| UI-01 | Catálogo de produtos | Concluída |
+| UI-01 |  Catálogo de produtos | Concluída |
 | UI-02 | Carrinho de compras | Concluída |
 | UI-03 | Cadastro de clientes | Concluída |
 | UI-04 | Cadastro de produtores | Concluída |
