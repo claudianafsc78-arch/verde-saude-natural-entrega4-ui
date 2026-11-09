@@ -6,37 +6,7 @@ O Verde & Saúde Natural é uma aplicação web para apresentação e comerciali
 
 Este repositório contém o Front-End (UI) do projeto.
 
-## 2. Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-
-## 3. Telas desenvolvidas
-
-- Tela inicial e acesso.
-- Cadastro de clientes e produtores.
-- Catálogo de produtos.
-- Carrinho de compras.
-- Pagamento.
-- Acompanhamento de pedidos.
-- Área do entregador.
-
-## 4. Funcionalidades
-
-- Exibição de produtos, imagens e preços.
-- Navegação por categorias.
-- Gerenciamento do carrinho.
-- Formulários de cadastro.
-- Integração com a API.
-- Registro de pedidos e pagamentos.
-
-## 5. Integração com a API
-
-Comunicação por requisições HTTP para consulta de produtos e envio de informações de cadastros, pedidos e pagamentos.
-
-## 6. Tarefas da UI — Entrega 4
+## 2. Tarefas da UI — Entrega 4
 
 | Código | Tarefa | Situação |
 |---|---|---|
@@ -48,6 +18,36 @@ Comunicação por requisições HTTP para consulta de produtos e envio de inform
 | UI-06 | Acompanhamento de pedidos | Tela visual verificada |
 | UI-07 | Processamento e tela de pagamento | Concluída |
 | UI-08 | Efetuar pedido | Concluída |
+
+## 3. Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+
+## 4. Telas desenvolvidas
+
+- Tela inicial e acesso.
+- Cadastro de clientes e produtores.
+- Catálogo de produtos.
+- Carrinho de compras.
+- Pagamento.
+- Acompanhamento de pedidos.
+- Área do entregador.
+
+## 5. Funcionalidades
+
+- Exibição de produtos, imagens e preços.
+- Navegação por categorias.
+- Gerenciamento do carrinho.
+- Formulários de cadastro.
+- Integração com a API.
+- Registro de pedidos e pagamentos.
+
+## 6. Integração com a API
+
+Comunicação por requisições HTTP para consulta de produtos e envio de informações de cadastros, pedidos e pagamentos.
 
 ## 7. Testes realizados
 
